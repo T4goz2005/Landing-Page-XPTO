@@ -16,4 +16,4 @@
 + COdigo limpo e Rafatorado;
 + Design simples; 
 
-<center><img src = "https://user-images.githubusercontent.com/116327263/238500034-1929d690-f435-4079-92fa-5bf03cc6567a.jpg"></center>
+<center><img src = "https://github.com/T4goz2005/Landing-Page-XPTO/assets/116327263/35f4dab3-eaa3-4416-8518-552860331498"></center>
