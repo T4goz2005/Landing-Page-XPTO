@@ -120,7 +120,13 @@ html {
   opacity: 0;
   transition: 0.3s ease-in-out;
 }
+.conteudo-principal .paineis{
+  background-image: url(/src/img/painel3.jpg);
+  background-position: center center;
+  background-size: cover;
+}
 
+/* 
 .conteudo-principal .paineis .projeto1 {
   background-image: url("/src/img/painel1.jpg");
 }
@@ -131,11 +137,11 @@ html {
 
 .conteudo-principal .paineis .projeto3 {
   background-image: url("src/img/painel3.jpg");
-}
+} */
 
 .conteudo-principal .paineis .imagem-painel.mostrar {
   opacity: 1;
-} */
+} 
 
 .conteudo-principal .paineis .titulo {
   font-weight: bold;
